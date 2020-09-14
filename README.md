@@ -5,7 +5,7 @@
 
 Famoso jogo de Pedra, Papel e Tesoura! Desenvolvido em JavaScript, HTML e CSS!
 
-<img src="https://i.pinimg.com/originals/99/75/ec/9975ec51cb636c2e0d06f3a99207e089.gif" width="40" height="40" />
+<img src="https://i.pinimg.com/originals/99/75/ec/9975ec51cb636c2e0d06f3a99207e089.gif" width="500" height="365" />
 
 Link do projeto: 
 
