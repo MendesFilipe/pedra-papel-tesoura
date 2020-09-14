@@ -17,4 +17,4 @@ Link do projeto: https://pedra-papel-tesoura.vercel.app/
 ## Download e execução
 
 * Não é necessario instalar nenhum componente 
-* Clonar o repositório: `git clone https://github.com/MendesFilipe/Projeto-Clima-Tempo.git`
+* Clonar o repositório: `git clone https://github.com/MendesFilipe/pedra-papel-tesoura.git`
