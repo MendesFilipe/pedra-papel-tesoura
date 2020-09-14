@@ -1,13 +1,12 @@
-# pedra-papel-tesoura
 # Pedra, Papel e Tesoura
 
-### Famoso jogo de Pedra, Papel e Tesoura :earth_americas:
+### Famoso jogo de Pedra, Papel e Tesoura :video_game:
 
 Famoso jogo de Pedra, Papel e Tesoura! Desenvolvido em JavaScript, HTML e CSS!
 
 <img src="https://i.pinimg.com/originals/99/75/ec/9975ec51cb636c2e0d06f3a99207e089.gif" width="500" height="365" />
 
-Link do projeto: 
+Link do projeto: https://pedra-papel-tesoura.vercel.app/
 
 ## ⚡ Tecnologias
 
