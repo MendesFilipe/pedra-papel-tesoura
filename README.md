@@ -18,3 +18,7 @@ Link do projeto: https://pedra-papel-tesoura.vercel.app/
 
 * Não é necessario instalar nenhum componente 
 * Clonar o repositório: `git clone https://github.com/MendesFilipe/pedra-papel-tesoura.git`
+
+## Licença ⚖
+
+Esse projeto possui a licença **MIT**.
